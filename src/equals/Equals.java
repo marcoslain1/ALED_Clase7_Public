@@ -14,7 +14,7 @@ public class Equals {
 		// String s2 = new String("Hola");
 		
 		// System.out.println(s1 == s2);
-		// System.out.println(s1.equals(s2));
+		// System.out.println(s1.equals(s2)); IMPORTANTE PARA COMPARAR VALORES DIRECTAMENTE EN TIPOS REFERENCIA
 		
 		// Wrappers: Double / Integer / Long
 		Integer i1 = 1000;
