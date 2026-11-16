@@ -47,7 +47,7 @@ public class BST {
 			if (valor == actual.valor) {
 				return true;
 			} else if (valor < actual.valor) {
-				// Si está, entonces estára hacia la izquierda
+				// Si está, entonces estará hacia la izquierda
 				if (actual.izquierda == null) {
 					return false;
 				}
