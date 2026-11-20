@@ -1,7 +1,7 @@
 package bst;
 
 public class BST {
-	
+	  
 	Nodo raiz;
 	
 	//guardar
